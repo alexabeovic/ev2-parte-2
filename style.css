@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+html,body{
+	min-height:100%;
+}
+
+body{
+	background:	linear-gradient(#E0FFFF, #FFE2F1)	;
+}
+
+h2{
+	font-family: 'Quicksand', cursive;
+	font-weight: 400;
+}
+
+#menu{
+	position: fixed;
+	bottom:2rem;
+	right:2.5rem;
+}
+
+.bg-rosado{
+	background: rgba(230, 129, 170)
+}
